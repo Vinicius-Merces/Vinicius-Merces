@@ -6,3 +6,4 @@ Sou desenvolvedor em desenvolvimento, e tenho aprofundado meus estudos em Web de
 Estou aberto a opiniões, sugestões, dicas e críticas que agregarão informação e conhecimento do tema e desse mundo que adentrei.
 </p>
             
+:construction:  Perfil em construção  :construction:
