@@ -1,9 +1,48 @@
-Prazer, meu nome é Vinicius, recentemente me interessei muito por Web Development e comecei a estudar por conta própria por enquanto, 
-iniciei meus estudos em HTML e CSS, e irei alimentar meu repositório público com as paginas que irei desenvolver para aplicar e por em prática todo o conteúdo estudado.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-Estou aberto a críticas e principalmente a dicas, informações e conhecimentos novos sobre esse mundo novo em que entrei!
+<style type="text/css">
+    .titulo {
+        font-size: 25px;
+        color:white;
+        text-align: center;
+    }
 
-<!---
-Vinicius-Merces/Vinicius-Merces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    body{
+        font-style: normal;
+        width: 600px;
+        height: 600px;
+        overflow: hidden;
+        margin:auto;
+    }
+
+    div{
+        overflow: hidden;
+        background-color: gray;
+        
+        
+    }
+
+    p{
+        color: white;
+    }
+
+</style>
+
+<body>
+    <div>
+        <h1 class="titulo">Olá, meu nome é Vinicius!</h1>
+        
+            <p>Sou desenvolvedor em desenvolvimento, e tenho aprofundado meus estudos em Web development, que atualmente tenho direcionado no<span></span> e <span></span> . Aqui deixarei meu repositório público com as páginas que criar aplicando os conteúdos estudados e multiplicando conhecimento!
+            </p>
+            <p>
+            Estou aberto a opiniões, sugestões, dicas e críticas que agregarão informação e conhecimento do tema e desse mundo que adentrei.
+            </p>
+    </div>
+</body>
+</html>
