@@ -6,7 +6,7 @@
 
 
 <body>
-    <div>
+  
         <h1 class="titulo">Olá, meu nome é Vinicius!</h1>
         
             <p>
@@ -15,6 +15,6 @@
             <p>
             Estou aberto a opiniões, sugestões, dicas e críticas que agregarão informação e conhecimento do tema e desse mundo que adentrei.
             </p>
-    </div>
+
 </body>
 </html>
