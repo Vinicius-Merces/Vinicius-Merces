@@ -1,6 +1,6 @@
 <!-- cabeçalho com animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Vinicius+Merc%C3%AAs+%F0%9F%91%8B;+Desenvolvedor+Full+Stack+em+transi%C3%A7%C3%A3o;+Especializando+em+AWS+Cloud+%E2%98%81%EF%B8%8F;+Criador+do+KINK+is+not+Kahoot+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&lines=Olá+eu+sou+Vinicius+Mercês;+Desenvolvedor+Full+Stack+em+transição;+Especializando+em+AWS+Cloud+%E2%98%81%EF%B8%8F;+Criador+do+KINK+is+not+Kahoot+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <!-- banner com gradiente e glow -->
