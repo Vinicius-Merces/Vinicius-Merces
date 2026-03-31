@@ -5,7 +5,7 @@
 
 <!-- banner com gradiente e glow -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🚀&fontSize=30&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=fontSize=30&fontAlignY=35&animation=twinkling" width="100%" />
 </p>
 
 <!-- introdução -->
