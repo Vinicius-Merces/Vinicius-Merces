@@ -80,13 +80,9 @@ Atualmente, me aprofundo nos serviços da **AWS** e no ecossistema **JavaScript/
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Merces&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Merces&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Merces&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b" width="40%" />
-</p>
 
 ---
 
