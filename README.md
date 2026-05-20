@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/vinicius-merces-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vinicius.merces@example.com" target="_blank">
+  <a href="mailto:vmerces24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -118,7 +118,7 @@ Estou aberto a colaborações, oportunidades de estágio/júnior em desenvolvime
   <a href="https://www.linkedin.com/in/vinicius-merces-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vinicius.merces@example.com">
+  <a href="mailto:vmerces24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
