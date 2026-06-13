@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=4ECDC4&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+eu+sou+Vinicius+Especialista+T%C3%A9cnico+%E2%86%92+Cloud+%2B+Dados+%E2%98%81%EF%B8%8F;+AWS+Certified+Cloud+Practitioner+%E2%9C%85;+AWS+re%2FStart+Graduate+%F0%9F%9A%80;+Futuro+Engenheiro+de+Dados+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=4ECDC4&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+eu+sou+Vinicius+;+Especialista+T%C3%A9cnico+%E2%86%92+Cloud+%2B+Dados+%E2%98%81%EF%B8%8F;+AWS+Certified+Cloud+Practitioner+%E2%9C%85;+AWS+re%2FStart+Graduate+%F0%9F%9A%80;+Futuro+Engenheiro+de+Dados+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <p align="center">
