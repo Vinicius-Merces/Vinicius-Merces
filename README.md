@@ -45,9 +45,9 @@ Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**, estou em tra
 ## 🏆 Certificações AWS
 
 <p align="center">
-  <img src="images/badges/cloud-practitioner.png" height="120" alt="AWS Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+  <img src="https://kink.squareweb.app/images/badges/aws-cloud-practitioner-foundational.png" height="120" alt="AWS Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
   &nbsp;&nbsp;
-  <img src="images/badges/aws-restart.png" height="120" alt="AWS re/Start" title="AWS re/Start Graduate" />
+  <img src="https://kink.squareweb.app/images/badges/aws-restart-graduate.png" height="120" alt="AWS re/Start" title="AWS re/Start Graduate" />
 </p>
 
 <p align="center">
