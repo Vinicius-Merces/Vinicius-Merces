@@ -102,17 +102,17 @@ Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**, estou em tra
 ## ☁️ Jornada na Nuvem
 
 ```
-[2024] AWS re/Start Graduate ──────────────────────── ✅
-[2024] AWS Cloud Practitioner (CLF-C02) ────────────── ✅
-[2025] AWS Solutions Architect Associate (SAA-C03) ──── 🔄 em progresso
-[2025] AWS Data Engineer Associate (DEA-C01) ─────────  🔄 em progresso
+[2026] AWS re/Start Graduate ──────────────────────── ✅
+[2026] AWS Cloud Practitioner (CLF-C02) ────────────── ✅
+[2026] AWS Solutions Architect Associate (SAA-C03) ──── 🔄 em progresso
+[2026/27] AWS Data Engineer Associate (DEA-C01) ─────────  🔄 em progresso
 ```
 
 Estudos práticos incluindo: EC2, S3, Lambda, API Gateway, CloudFormation, RDS, DynamoDB, CloudWatch, IAM, Athena, Glue, Kinesis e mais.
 
 ---
 
-## 🎯 Objetivos 2025–2026
+## 🎯 Objetivos 2026–2027
 
 - ✅ AWS Cloud Practitioner — **concluído**
 - ✅ AWS re/Start — **concluído**
