@@ -31,7 +31,8 @@
 
 Sou **Especialista em Produtos e Instrutor Técnico** com mais de **9 anos de experiência** em soluções de impressão (Canon, Brother, Konica Minolta, Epson e Kyocera). Ao longo dessa trajetória, desenvolvi forte capacidade de **diagnóstico técnico**, **treinamento de equipes** e **comunicação clara** — habilidades que hoje aplico diretamente nos estudos e projetos em tecnologia.
 
-Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**, estou em transição de carreira com foco em:
+Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**, venho ampliando minha atuação para o universo de tecnologia e cloud, com foco em:
+
 
 - ☁️ **Cloud Computing (AWS)** — já certificado, avançando para SAA-C03 e DEA-C01
 - 📊 **Análise de Dados e Engenharia de Dados**
