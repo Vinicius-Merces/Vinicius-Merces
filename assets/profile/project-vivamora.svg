@@ -1,0 +1,30 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A0F"/><stop offset="1" stop-color="#0B1816"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="572" y1="86" x2="707" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F3D0"/><stop offset="1" stop-color="#4ECDC4"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="260" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="258" rx="21" stroke="#4ECDC4" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M580 190L640 121L707 190" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M600 177V213H688V177" stroke="#4ECDC4" stroke-opacity="0.48" stroke-width="2"/>
+  <rect x="632" y="177" width="25" height="36" rx="3" stroke="#A7F3D0" stroke-opacity="0.72"/>
+  <circle cx="704" cy="92" r="3" fill="#4ECDC4"/>
+  <circle cx="604" cy="94" r="2.5" fill="#A7F3D0"/>
+  <path d="M604 94C640 68 680 70 704 92" stroke="#4ECDC4" stroke-opacity="0.18"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="46" y="51" fill="#73EDE4" font-size="12" font-weight="700" letter-spacing="2.4">03 · CLIENT SYSTEM</text>
+    <text x="46" y="99" fill="#F7FAFC" font-size="31" font-weight="760">VivaMora / LeadHunter</text>
+    <text x="46" y="128" fill="#9FB3BE" font-size="17">Real-estate acquisition &amp; lead qualification platform</text>
+    <text x="46" y="169" fill="#C9D7DD" font-size="14">Landing · CRM · qualification · APIs · commercial automation</text>
+    <rect x="46" y="195" width="88" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="64" y="215" fill="#B9FFF7" font-size="11" font-weight="700">FASTAPI</text>
+    <rect x="144" y="195" width="112" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="162" y="215" fill="#B9FFF7" font-size="11" font-weight="700">POSTGRESQL</text>
+    <rect x="266" y="195" width="84" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="286" y="215" fill="#B9FFF7" font-size="11" font-weight="700">NODE.JS</text>
+  </g>
+</svg>
