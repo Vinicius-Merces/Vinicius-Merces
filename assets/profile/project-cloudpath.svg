@@ -1,0 +1,30 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A0F"/><stop offset="1" stop-color="#101522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="554" y1="88" x2="703" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE9FD"/><stop offset="1" stop-color="#4ECDC4"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="260" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="258" rx="21" stroke="#4ECDC4" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M575 205C575 156 611 116 655 116C699 116 727 148 727 188" stroke="#4ECDC4" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M598 191C598 158 623 132 654 132C686 132 706 155 706 184" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M624 177L654 151L683 177L654 205L624 177Z" fill="#4ECDC4" fill-opacity="0.12" stroke="#83F4EB" stroke-opacity="0.7"/>
+  <circle cx="654" cy="177" r="8" fill="#8BE9FD"/>
+  <circle cx="607" cy="99" r="3" fill="#4ECDC4"/>
+  <circle cx="703" cy="91" r="2.5" fill="#8BE9FD"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="46" y="51" fill="#73EDE4" font-size="12" font-weight="700" letter-spacing="2.4">02 · PRODUCT</text>
+    <text x="46" y="99" fill="#F7FAFC" font-size="31" font-weight="760">CloudPath</text>
+    <text x="46" y="128" fill="#9FB3BE" font-size="17">AWS learning platform + realtime experiences</text>
+    <text x="46" y="169" fill="#C9D7DD" font-size="14">Simulados · study tracks · multiplayer quiz · CloudArena RPG</text>
+    <rect x="46" y="195" width="84" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="66" y="215" fill="#B9FFF7" font-size="11" font-weight="700">NODE.JS</text>
+    <rect x="140" y="195" width="96" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="157" y="215" fill="#B9FFF7" font-size="11" font-weight="700">SOCKET.IO</text>
+    <rect x="246" y="195" width="94" height="30" rx="15" fill="#4ECDC4" fill-opacity="0.10" stroke="#4ECDC4" stroke-opacity="0.30"/>
+    <text x="264" y="215" fill="#B9FFF7" font-size="11" font-weight="700">FIREBASE</text>
+  </g>
+</svg>
