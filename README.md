@@ -27,31 +27,19 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### ◉ Orbital Studio
-
-Criação de **sites, landing pages, sistemas e SaaS** com foco em experiência, performance, conversão e identidade.
-
-[**orbitalstudio.com.br →**](https://orbitalstudio.com.br)
-
+  <h3>◉ Orbital Studio</h3>
+  <p>Criação de <strong>sites, landing pages, sistemas e SaaS</strong> com foco em experiência, performance, conversão e identidade.</p>
+  <p><a href="https://orbitalstudio.com.br"><strong>orbitalstudio.com.br →</strong></a></p>
 </td>
 <td width="33%" valign="top">
-
-### ◈ Produtos & Sistemas
-
-Projetos próprios e comerciais envolvendo **APIs, CRMs, automações, realtime, bancos de dados e plataformas web**.
-
-**ATLAS · CloudPath · LeadHunter**
-
+  <h3>◈ Produtos &amp; Sistemas</h3>
+  <p>Projetos próprios e comerciais envolvendo <strong>APIs, CRMs, automações, realtime, bancos de dados e plataformas web</strong>.</p>
+  <p><strong>ATLAS · CloudPath · LeadHunter</strong></p>
 </td>
 <td width="33%" valign="top">
-
-### ◇ Cloud & Infra
-
-**AWS Certified Cloud Practitioner**, AWS re/Start Graduate, Linux, redes, troubleshooting e arquitetura cloud em evolução contínua.
-
-**AWS · Linux · PostgreSQL**
-
+  <h3>◇ Cloud &amp; Infra</h3>
+  <p><strong>AWS Certified Cloud Practitioner</strong>, AWS re/Start Graduate, Linux, redes, troubleshooting e arquitetura cloud em evolução contínua.</p>
+  <p><strong>AWS · Linux · PostgreSQL</strong></p>
 </td>
 </tr>
 </table>
@@ -136,34 +124,22 @@ Projeto comercial para o mercado imobiliário combinando uma landing premium com
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**Interface & Experience**
-
-Next.js · React · TypeScript · JavaScript · Tailwind CSS · Three.js · React Three Fiber · GSAP · responsive design · accessibility
-
+  <p><strong>Interface &amp; Experience</strong></p>
+  <p>Next.js · React · TypeScript · JavaScript · Tailwind CSS · Three.js · React Three Fiber · GSAP · responsive design · accessibility</p>
 </td>
 <td width="50%" valign="top">
-
-**Backend & Data**
-
-Node.js · Express · Python · FastAPI · Socket.IO · PostgreSQL · Supabase · Firebase · Firestore · SQL
-
+  <p><strong>Backend &amp; Data</strong></p>
+  <p>Node.js · Express · Python · FastAPI · Socket.IO · PostgreSQL · Supabase · Firebase · Firestore · SQL</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**Cloud & Infrastructure**
-
-AWS · Linux · redes · Square Cloud · Vercel · GitHub · troubleshooting
-
+  <p><strong>Cloud &amp; Infrastructure</strong></p>
+  <p>AWS · Linux · redes · Square Cloud · Vercel · GitHub · troubleshooting</p>
 </td>
 <td width="50%" valign="top">
-
-**Quality & AI Engineering**
-
-Vitest · Playwright · Testing Library · axe-core · GitHub Actions · Claude Code · Codex · ATLAS · Obsidian project memory
-
+  <p><strong>Quality &amp; AI Engineering</strong></p>
+  <p>Vitest · Playwright · Testing Library · axe-core · GitHub Actions · Claude Code · Codex · ATLAS · Obsidian project memory</p>
 </td>
 </tr>
 </table>
