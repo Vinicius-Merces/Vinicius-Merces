@@ -1,151 +1,190 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=600&color=4ECDC4&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+eu+sou+Vinicius+;+%E2%86%92+Cloud+%2B+Dados+%E2%98%81%EF%B8%8F;+AWS+Certified+Cloud+Practitioner+%E2%9C%85;+AWS+re%2FStart+Graduate+%F0%9F%9A%80;+Futuro+Engenheiro+de+Dados+%F0%9F%93%8A" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4ecdc4&height=120&section=header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=700&color=4ECDC4&center=true&vCenter=true&width=760&lines=Vinicius+Merc%C3%AAs+Silva;Founder+%40+Orbital+Studio;Sites+%C2%B7+SaaS+%C2%B7+Sistemas+Web;AWS+Certified+Cloud+Practitioner;Cloud+%C2%B7+Web+%C2%B7+AI-assisted+Engineering" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Vinicius Mercês Silva</h1>
-<h3 align="center">Especialista em Produtos & Instrutor Técnico → Cloud Computing | Dados | Dev</h3>
+
+<h3 align="center">Founder @ Orbital Studio | Web Development · SaaS · Cloud & Infrastructure</h3>
 
 <p align="center">
-  <a href="https://github.com/Vinicius-Merces">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  Transformo necessidades de negócio em experiências digitais, sistemas web e produtos que podem evoluir junto com a operação.
+</p>
+
+<p align="center">
+  <a href="https://orbitalstudio.com.br">
+    <img src="https://img.shields.io/badge/Orbital%20Studio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Orbital Studio" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-merces-aws-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vmerces24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinicius-Merces&color=4ecdc4&style=flat-square&label=Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Vinicius-Merces&color=4ecdc4&style=flat-square&label=Visitantes" alt="Visitantes" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou **Especialista em Produtos e Instrutor Técnico** com mais de **9 anos de experiência** em soluções de impressão (Canon, Brother, Konica Minolta, Epson e Kyocera). Ao longo dessa trajetória, desenvolvi forte capacidade de **diagnóstico técnico**, **treinamento de equipes** e **comunicação clara** — habilidades que hoje aplico diretamente nos estudos e projetos em tecnologia.
+Sou profissional de tecnologia, graduado em **Análise e Desenvolvimento de Sistemas**, **AWS Certified Cloud Practitioner**, AWS re/Start Graduate e fundador da **[Orbital Studio](https://orbitalstudio.com.br)**.
 
-Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**, venho ampliando minha atuação para o universo de tecnologia e cloud, com foco em:
+Minha trajetória começou muito antes do desenvolvimento de software. Tenho mais de **8 anos de experiência como Especialista em Produtos e Instrutor Técnico**, trabalhando com diagnóstico, suporte, treinamento e relacionamento técnico em soluções Canon, Brother, Konica Minolta, Epson e Kyocera.
 
+Essa base continua presente no que faço hoje: entender o problema com clareza, explicar decisões técnicas sem complicação desnecessária e construir soluções que façam sentido para quem realmente vai utilizá-las.
 
-- ☁️ **Cloud Computing (AWS)** — já certificado, avançando para SAA-C03 e DEA-C01
-- 📊 **Análise de Dados e Engenharia de Dados**
-- 🐧 **Linux**
-- 💻 **Desenvolvimento de Software (JavaScript / Node.js)**
+Atualmente concentro meus projetos em:
 
-> *9 anos ensinando pessoas a usar tecnologia. Agora usando essa base para construir na nuvem.*
+- **Sites institucionais e landing pages** com foco em presença digital, conversão, performance e experiência de uso;
+- **Sistemas web e SaaS** para digitalizar processos, organizar operações e criar novos produtos;
+- **APIs, integrações e automações** conectando aplicações, bancos de dados, CRMs e serviços externos;
+- **Cloud, Linux e infraestrutura**, combinando formação AWS com projetos e laboratórios práticos;
+- **Engenharia de software assistida por IA**, usando contexto persistente, documentação, validação e agentes especializados para tornar o desenvolvimento mais consistente.
+
+> Tecnologia boa não é só código funcionando. É código resolvendo o problema certo, com uma experiência que transmite confiança.
 
 ---
 
-## 🏆 Certificações AWS
+## Orbital Studio
+
+### Desenvolvimento digital para empresas e produtos
+
+A **Orbital Studio** é o meu estúdio de desenvolvimento para criação de soluções digitais sob medida.
 
 <p align="center">
-  <img src="https://cloudpath.squareweb.app/images/badges/aws-cloud-practitioner-foundational.png" height="120" alt="AWS Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
-  &nbsp;&nbsp;
-  <img src="https://cloudpath.squareweb.app/images/badges/aws-restart-graduate.png" height="120" alt="AWS re/Start" title="AWS re/Start Graduate" />
+  <a href="https://orbitalstudio.com.br"><strong>orbitalstudio.com.br</strong></a>
 </p>
 
-<p align="center">
-  <strong>✅ AWS Certified Cloud Practitioner (CLF-C02)</strong><br/>
-  <strong>✅ AWS re/Start Graduate</strong>
-</p>
-
-**Próximas metas:**
-- 🎯 AWS Solutions Architect – Associate (SAA-C03)
-- 🎯 AWS Data Engineer – Associate (DEA-C01)
-
----
-
-## 🧠 Stack Técnica
-
-| Categoria | Tecnologias |
+| Serviço | O que entrego |
 |---|---|
-| **Cloud** | AWS (EC2, S3, Lambda, API Gateway, CloudFormation, RDS, DynamoDB) |
-| **Frontend** | HTML5, CSS3, JavaScript (Vanilla), React (aprendendo) |
-| **Backend** | Node.js, Express, Firebase (Auth, Firestore) |
-| **Dados** | SQL (MySQL, SQLite), Firestore NoSQL — estudando serviços AWS de dados |
-| **Infraestrutura** | Linux, Git, GitHub |
-| **Game Dev** | Godot Engine (GDScript) — projetos pessoais |
+| **Sites profissionais** | Presença institucional moderna, responsiva e preparada para crescer |
+| **Landing pages** | Páginas focadas em campanhas, apresentação de serviços e captação de leads |
+| **SaaS e sistemas web** | Plataformas, dashboards, portais, CRMs e ferramentas de operação |
+| **Integrações e automações** | APIs, bancos de dados, formulários, fluxos comerciais e serviços externos |
+| **SEO técnico e performance** | Estrutura de conteúdo, metadata, sitemap, acessibilidade e experiência de carregamento |
+
+O próprio site da Orbital funciona como laboratório e showcase técnico. Ele utiliza **Next.js, React, TypeScript, Tailwind CSS, GSAP e Three.js**, com conteúdo bilíngue, animações dirigidas por scroll, testes automatizados, acessibilidade e arquitetura de conteúdo em Markdown/MDX.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,nodejs,js,react,html,css,linux,mysql,git,firebase,godot" />
+  <a href="https://orbitalstudio.com.br">
+    <img src="https://img.shields.io/badge/Conhecer%20a%20Orbital%20Studio-Acesse%20o%20site-4ECDC4?style=for-the-badge" alt="Conhecer a Orbital Studio" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projeto em Destaque
+## Projetos em destaque
 
-### [🔥 KINK is not Kahoot](https://github.com/Vinicius-Merces/kink-is-not-kahoot)
+### ATLAS AI Engineering Framework
 
-> *Plataforma de quizzes em tempo real — uma alternativa radical ao Kahoot, com simulados AWS e trilhas de estudo completas.*
+[**Vinicius-Merces/atlas**](https://github.com/Vinicius-Merces/atlas)
 
-**O que tem dentro:**
+Framework repository-native para desenvolvimento de software assistido por IA, criado para manter **memória de projeto, agentes especializados, skills, workflows, contratos, validações e continuidade entre sessões**.
 
-- 🎮 **Quiz ao vivo** com WebSockets (Socket.IO) — até 30+ jogadores simultâneos
-- 📝 **Simulados AWS** (CLF-C02, SAA-C03, DVA-C02) com 3 níveis de dificuldade
-- 📚 **Apostilas/Trilhas de Estudo** para SAA-C03 e DEA-C01, com navegação por sidebar, scroll-spy e barra de progresso
-- ⚡ **Pontuação por velocidade** — calculada no servidor (1000 × tempo_restante / tempo_limite)
-- 🎵 **Player de música** com playlists separadas para menu e jogo
-- ♿ Acessível (ARIA, teclado, aria-live) e responsivo (mobile, tablet, desktop)
+O ATLAS tem **Claude Code como runtime canônico** e suporte de compatibilidade para **Codex**, permitindo que contexto, decisões e processos de engenharia permaneçam versionados no próprio repositório em vez de dependerem apenas do histórico de uma conversa.
 
-**Stack:** Node.js · Socket.IO · Firebase · Vanilla JS · HTML · CSS
-
-🔗 [Repositório](https://github.com/Vinicius-Merces/kink-is-not-kahoot) | [Demo ao vivo](https://kink.squareweb.app)
+**Destaques:** AI engineering · project memory · agents · workflows · governance · Claude Code · Codex
 
 ---
 
-## ☁️ Jornada na Nuvem
+### CloudPath
 
-```
-[2026] AWS re/Start Graduate ──────────────────────── ✅
-[2026] AWS Cloud Practitioner (CLF-C02) ────────────── ✅
-[2026] AWS Solutions Architect Associate (SAA-C03) ──── 🔄 em progresso
-[2026/27] AWS Data Engineer Associate (DEA-C01) ─────────  🔄 em progresso
-```
+[**Repositório**](https://github.com/Vinicius-Merces/kink-is-not-kahoot) · [**Aplicação**](https://cloudpath.squareweb.app)
 
-Estudos práticos incluindo: EC2, S3, Lambda, API Gateway, CloudFormation, RDS, DynamoDB, CloudWatch, IAM, Athena, Glue, Kinesis e mais.
+Plataforma educacional criada para estudo de certificações AWS. O projeto nasceu como *KINK is not Kahoot* e evoluiu para **CloudPath**, reunindo simulados, trilhas de estudo, quiz multiplayer em tempo real e o **CloudArena**, um RPG educacional baseado no mesmo banco de questões.
 
----
+Entre os recursos estão **Node.js, Express, Socket.IO, Firebase, Python, GitHub Actions, Azure Speech, acessibilidade e arquitetura cliente-servidor com WebSockets**.
 
-## 🎯 Objetivos 2026–2027
-
-- ✅ AWS Cloud Practitioner — **concluído**
-- ✅ AWS re/Start — **concluído**
-- 🔄 AWS Solutions Architect Associate (SAA-C03) — em andamento
-- 🔄 AWS Data Engineer Associate (DEA-C01) — em andamento
-- 🔲 Projeto serverless completo: Lambda + API Gateway + DynamoDB
-- 🔲 Migrar o KINK para arquitetura AWS escalável (ElastiCache, WebSockets gerenciados)
+**Destaques:** produto web · real-time · WebSockets · gamificação · AWS education · Firebase · CI
 
 ---
 
-## 📊 GitHub Stats
+### VivaMora / LeadHunter
+
+[**vivamoraimob.com.br**](https://vivamoraimob.com.br)
+
+Projeto comercial voltado ao mercado imobiliário, combinando presença digital com uma estrutura de **captação e qualificação de leads**, CRM e integrações de atendimento.
+
+A arquitetura do LeadHunter trabalha com serviços independentes para ingestão e comunicação, utilizando tecnologias como **Python, FastAPI, PostgreSQL, Node.js e integrações de mensageria**, permitindo que o sistema cresça além de uma landing page tradicional.
+
+**Destaques:** lead generation · CRM · APIs · FastAPI · PostgreSQL · automação comercial
+
+---
+
+## Stack atual
+
+| Área | Tecnologias e ferramentas |
+|---|---|
+| **Frontend** | Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS |
+| **UI & Motion** | GSAP · Three.js · React Three Fiber · design responsivo · acessibilidade |
+| **Backend & APIs** | Node.js · Express · Python · FastAPI · Socket.IO |
+| **Dados** | PostgreSQL · Supabase · Firebase · Firestore · SQL |
+| **Cloud & Infra** | AWS · Linux · Square Cloud · Vercel · GitHub |
+| **Qualidade** | Vitest · Testing Library · Playwright · axe-core · GitHub Actions |
+| **AI-assisted Engineering** | Claude Code · Codex · ATLAS · memória de projeto com Obsidian |
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Merces&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ecdc4&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Merces&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4ecdc4&title_color=4ecdc4" width="48%" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,postgres,supabase,firebase,aws,linux,git" alt="Tech stack" />
 </p>
+
+> Em AWS, mantenho o foco em aprendizado aplicado, laboratórios e evolução contínua. Não trato estudo como experiência profissional que ainda não tive.
 
 ---
 
-## 📫 Vamos conversar?
+## Cloud, formação e certificações
 
-Aberto a colaborações, oportunidades de **estágio/júnior em Cloud ou Dados**, e trocas de conhecimento. Tenho perfil técnico sólido, experiência com treinamento e estou buscando minha primeira posição formal em tecnologia.
+<p align="center">
+  <img src="https://cloudpath.squareweb.app/images/badges/aws-cloud-practitioner-foundational.png" height="115" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+  &nbsp;&nbsp;
+  <img src="https://cloudpath.squareweb.app/images/badges/aws-restart-graduate.png" height="115" alt="AWS re/Start Graduate" title="AWS re/Start Graduate" />
+</p>
+
+<p align="center">
+  <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong><br/>
+  <strong>AWS re/Start Graduate</strong><br/>
+  <strong>Graduação em Análise e Desenvolvimento de Sistemas</strong>
+</p>
+
+Continuo aprofundando conhecimentos em **arquiteturas AWS, Linux, redes, segurança, dados e troubleshooting**, conectando essa formação aos projetos de software que desenvolvo.
+
+---
+
+## Como eu trabalho
+
+Gosto de projetos em que tecnologia precisa conversar diretamente com o negócio. Isso significa ir além da implementação visual e pensar em arquitetura, manutenção, conteúdo, segurança, acessibilidade, SEO, integrações e operação.
+
+Nos projetos mais recentes também venho estruturando uma abordagem de desenvolvimento assistido por IA baseada em:
+
+- contexto e decisões versionados no repositório;
+- planejamento antes de mudanças de alto impacto;
+- agentes e skills especializados para tarefas diferentes;
+- validação automatizada e revisão antes de produção;
+- documentação que permita continuar o projeto sem depender de uma única sessão ou ferramenta.
+
+Esse trabalho resultou no **ATLAS**, que transformou parte desse processo em um framework reutilizável e aberto.
+
+---
+
+## Vamos construir algo?
+
+Para **sites, landing pages, sistemas web, SaaS ou soluções digitais para empresas**, conheça a Orbital Studio:
+
+<p align="center">
+  <a href="https://orbitalstudio.com.br">
+    <img src="https://img.shields.io/badge/orbitalstudio.com.br-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Orbital Studio" />
+  </a>
+</p>
+
+Também estou aberto a conexões e oportunidades profissionais em **Cloud / Infraestrutura**, desenvolvimento e projetos onde minha experiência técnica, capacidade de troubleshooting e visão de produto possam gerar valor.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-merces-aws-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vmerces24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:1a1a2e&height=100&section=footer" width="100%" />
 </p>
