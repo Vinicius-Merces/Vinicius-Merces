@@ -38,7 +38,7 @@
 </td>
 <td width="33%" valign="top">
   <h3>◇ Cloud &amp; Infra</h3>
-  <p><strong>AWS Certified Cloud Practitioner</strong>, AWS re/Start Graduate, Linux, redes, troubleshooting e arquitetura cloud em evolução contínua.</p>
+  <p><strong>AWS Certified Solutions Architect – Associate</strong>, <strong>AWS Certified Cloud Practitioner</strong>, AWS re/Start Graduate, Linux, redes, troubleshooting e arquitetura cloud em evolução contínua.</p>
   <p><strong>AWS · Linux · PostgreSQL</strong></p>
 </td>
 </tr>
@@ -163,12 +163,15 @@ Atualmente concentro minha atuação em três frentes que se complementam:
 ## ☁ Cloud Track
 
 <p align="center">
+  <a href="https://www.credly.com/badges/f9445c0b-d15e-411b-949c-072e191bad6f/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate - validar no Credly" /></a>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cloudpath.squareweb.app/images/badges/aws-cloud-practitioner-foundational.png" height="112" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cloudpath.squareweb.app/images/badges/aws-restart-graduate.png" height="112" alt="AWS re/Start Graduate" title="AWS re/Start Graduate" />
 </p>
 
 <p align="center">
+  <strong><a href="https://www.credly.com/badges/f9445c0b-d15e-411b-949c-072e191bad6f/public_url">AWS Certified Solutions Architect – Associate (SAA-C03) · Credly</a></strong><br/>
   <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong><br/>
   <strong>AWS re/Start Graduate</strong><br/>
   <strong>Graduação em Análise e Desenvolvimento de Sistemas</strong>
