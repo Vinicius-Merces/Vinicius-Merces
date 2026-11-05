@@ -163,7 +163,7 @@ Atualmente concentro minha atuação em três frentes que se complementam:
 ## ☁ Cloud Track
 
 <p align="center">
-  <a href="https://www.credly.com/badges/f9445c0b-d15e-411b-949c-072e191bad6f/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate - validar no Credly" /></a>
+  <a href="https://www.credly.com/badges/f9445c0b-d15e-411b-949c-072e191bad6f/public_url"><img src="https://raw.githubusercontent.com/turboBasic/certification-badges/main/assets/raster%20examples/aws-certified-solutions-architect-associate-logo-600px.png" height="112" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" /></a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cloudpath.squareweb.app/images/badges/aws-cloud-practitioner-foundational.png" height="112" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
   &nbsp;&nbsp;&nbsp;
